@@ -374,3 +374,4 @@ const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
 Дополнительный коммит 1 в branch1
+Дополнительный коммит 2 в branch1
